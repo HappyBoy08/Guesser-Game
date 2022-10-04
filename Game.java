@@ -4,7 +4,7 @@
 import java.util.Scanner;
 class Guesser
 {
-	int gnum();
+	int gnum();                                                                                           
 	
 	
 	int guessingNum()
@@ -86,3 +86,13 @@ class Umpire
     		u.Compare();
     	}
     }
+//output: 
+// Guesser,Kindly guess a number..!: 
+// 8
+// Player,Kindly Predict a number...!:
+// 5
+// Player,Kindly Predict a number...!:
+// 4
+// Player,Kindly Predict a number...!:
+// 8
+// Player 3 has won the game...!
