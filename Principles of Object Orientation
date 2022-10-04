@@ -1,0 +1,16 @@
+//Principles of Object Orientation.
+
+1. The World is a Collection of Object.
+
+2. Every Object is Usefull and nothing is useless in this real World.
+
+3. Every object is an constant interaction with another object. No object is in Isolation.
+
+4. Every Object belong to the type. The type is technically called as class. Class doesn't exist in reality, but it is only the Object exists in real.
+
+5. Every object has two parts
+
+*has part:-it refers to a state or property of an object. It is handled using fields(variable).
+
+*does part:-it refers to a behaviour or activity of an object. It is handled using method (function) .
+
